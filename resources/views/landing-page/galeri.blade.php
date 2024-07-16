@@ -30,47 +30,47 @@
 
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
-    <style>
+<style>
 
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f8f9fa;
-        color: #343a40;
-    }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
 
-    .card-title {
-        color: #007bff;
-    }
+.card-title {
+    color: #007bff;
+}
 
-    .card-body {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 
-    .card-text small {
-        display: flex;
-        align-items: center;
-    }
+.card-text small {
+    display: flex;
+    align-items: center;
+}
 
-    .card-text small i {
-        margin-right: 5px;
-    }
+.card-text small i {
+    margin-right: 5px;
+}
 
-    .pagination .page-item .page-link {
-        color: #007bff;
-    }
+.pagination .page-item .page-link {
+    color: #007bff;
+}
 
-    .pagination .page-item.disabled .page-link {
-        color: #6c757d;
-    }
+.pagination .page-item.disabled .page-link {
+    color: #6c757d;
+}
 
-    .pagination .page-item.active .page-link {
-        background-color: #007bff;
-        border-color: #007bff;
-    }
+.pagination .page-item.active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+}
 
-    </style>
+</style>
 
 </head>
 
@@ -107,98 +107,103 @@
 
     <!-- ======= Services Section ======= -->
     <div class="container my-5">
-        <div class="row mb-3">
-            <div class="col-12">
+        <div class="row">
+            <!-- First News Card -->
+            <div class="col-md-4 mb-3">
                 <div class="card">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="https://disdik.purwakartakab.go.id/asset/foto_berita/seleksi_GSI.jpg" class="card-img" alt="Perjanjian Kinerja">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">
-                                    Purwakarta Siapkan Talenta Terbaik Untuk GSI Tingkat Provinsi Jawa Barat Tahun 2024 </h5>
-                                <p class="card-text">Purwakarta, (10/07/2023) – Sebanyak 51 talenta sepakbola muda dari beberapa SMP di Kabupaten Purwakarta mengikuti seleksi Gala Siswa Indonesia (GSI) Tingkat Propinsi Jawa Barat Tahun 2024 yang berlangsung selama 3 (tiga) hari, Selasa dan Kamis, 9 s.d. 11 Juli 2024 di Lapangan UPI Kampus Purwakarta. Nantinya akan dipilih 18 pemain untuk menjadi tim inti GSI Kab. Purwakarta. Menurut Denden...</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 15:48:34, 10 JUL 2024 | 1 HARI LALU</small></p>
-                                <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
-                            </div>
-                        </div>
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/ultahpj.png" class="card-img-top" alt="Ketentuan PPDB SMK">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Calon Peserta Didik Baru (CPDB) yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 pada Sekolah Menengah Kejuruan Negeri (SMKN) adalah berdomisili di Provinsi DKI Jakarta dan tercatat dalam Kartu Keluarga...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row mb-3">
-            <div class="col-12">
+            <!-- Second News Card -->
+            <div class="col-md-4 mb-3">
                 <div class="card">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
-                                <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
-                            </div>
-                        </div>
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/sumpahpemuda.jpg" class="card-img-top" alt="PPDB SMK 2024">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">PPDB yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 adalah CPDB yang tidak terdaftar di Satuan Pendidikan Negeri dan Swasta pada jenjang yang dituju...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row mb-3">
-            <div class="col-12">
+            <!-- Third News Card -->
+            <div class="col-md-4 mb-3">
                 <div class="card">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
-                                <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
-                            </div>
-                        </div>
+                    <img src="https://disdik.purwakartakab.go.id/asset/img_galeri/SAVE_20200810_131807.jpg" class="card-img-top" alt="Jadwal PPDB">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Pendaftaran dan Pemilihan Sekolah pada 1 Juli 2024, Proses Seleksi pada 2 Juli 2024, dan Pengumuman pada 2 Juli 2024...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row mb-3">
-            <div class="col-12">
+
+            <div class="col-md-4 mb-3">
                 <div class="card">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
-                                <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
-                            </div>
-                        </div>
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/guru.jpg" class="card-img-top" alt="Ketentuan PPDB SMK">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Calon Peserta Didik Baru (CPDB) yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 pada Sekolah Menengah Kejuruan Negeri (SMKN) adalah berdomisili di Provinsi DKI Jakarta dan tercatat dalam Kartu Keluarga...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row mb-3">
-            <div class="col-12">
+
+            <div class="col-md-4 mb-3">
                 <div class="card">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
-                                <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
-                            </div>
-                        </div>
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/sukma.jpg" class="card-img-top" alt="Ketentuan PPDB SMK">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Calon Peserta Didik Baru (CPDB) yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 pada Sekolah Menengah Kejuruan Negeri (SMKN) adalah berdomisili di Provinsi DKI Jakarta dan tercatat dalam Kartu Keluarga...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/kunjungan.jpg" class="card-img-top" alt="Ketentuan PPDB SMK">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Calon Peserta Didik Baru (CPDB) yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 pada Sekolah Menengah Kejuruan Negeri (SMKN) adalah berdomisili di Provinsi DKI Jakarta dan tercatat dalam Kartu Keluarga...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/lokakarya.jpeg" class="card-img-top" alt="Ketentuan PPDB SMK">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Calon Peserta Didik Baru (CPDB) yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 pada Sekolah Menengah Kejuruan Negeri (SMKN) adalah berdomisili di Provinsi DKI Jakarta dan tercatat dalam Kartu Keluarga...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/ramadhan.jpg" class="card-img-top" alt="Ketentuan PPDB SMK">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Calon Peserta Didik Baru (CPDB) yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 pada Sekolah Menengah Kejuruan Negeri (SMKN) adalah berdomisili di Provinsi DKI Jakarta dan tercatat dalam Kartu Keluarga...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="{{ asset('storage/landing-page') }}/assets/img/galeri/rapat.jpeg" class="card-img-top" alt="Ketentuan PPDB SMK">
+                    <div class="card-body">
+                        <h5 class="card-title"></h5>
+                        {{-- <p class="card-text">Calon Peserta Didik Baru (CPDB) yang dapat mengikuti PPDB Tahun Pelajaran 2024/2025 pada Sekolah Menengah Kejuruan Negeri (SMKN) adalah berdomisili di Provinsi DKI Jakarta dan tercatat dalam Kartu Keluarga...</p> --}}
+                        <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 27 Mei 2024</small></p>
                     </div>
                 </div>
             </div>
@@ -366,10 +371,6 @@
   <script src="{{ asset('storage/landing-page') }}/assets/vendor/php-email-form/validate.js"></script>
   <script src="{{ asset('storage/landing-page') }}/assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="{{ asset('storage/landing-page') }}/assets/vendor/waypoints/noframework.waypoints.js"></script>
-
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 
   <!-- Template Main JS File -->

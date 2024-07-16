@@ -19,4 +19,10 @@ Route::get('/ppdb', function () {
     return view('landing-page.ppdb');
 });
 
+Route::get('/galeri', function () {
+    return view('landing-page.galeri');
+});
+
 Route::get('/berita',[BeritaController::class, 'index'])->name('beritas.index');
+
+
