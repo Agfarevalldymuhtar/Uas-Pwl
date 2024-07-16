@@ -27,7 +27,6 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="/galeri">GALERI</a></li>
-          <li><a class="getstarted scrollto" href="/login">LOGIN & DAFTAR</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>

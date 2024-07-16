@@ -132,13 +132,13 @@
                 <div class="card">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
+                            <img src="https://disdik.purwakartakab.go.id//asset/foto_berita/mpls_(1).jpg" class="card-img" alt="Selamat Hari Guru Nasional">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
+                                <h5 class="card-title">Hari Pertama MPLS SD Purwakarta Tahun 2024, Terapkan Konsep Mindfullness Bagi Peserta Didik Baru</h5>
+                                <p class="card-text">Purwakarta, (15/07/2024) – Masa Pengenalan Lingkungan Sekolah (MPLS) telah dimulai secara serentak pelaksanaannya mulai hari Senin, 15 Juli 2024 di seluruh sekolah yang terdapat di Kabupaten Purwakarta. Setiap sekolah diberikan keleluasaan untuk...</p>
+                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> SENIN, 15 JUL 2024</small></p>
                                 <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
                             </div>
                         </div>
@@ -151,13 +151,13 @@
                 <div class="card">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
+                            <img src="https://disdik.purwakartakab.go.id//asset/foto_berita/Aura_SMPN_1_Maniis.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
+                                <h5 class="card-title">Aura Nuzuly Syifa, Delegasi Purwakarta di Bintang Sobat SMP Kemendikbud RI Tahun 2024</h5>
+                                <p class="card-text">Purwakarta, (08/07/2024) - Bertempat di Lapangan Upacara Linuhung, Senin 8 Juli 2024, Kepala Dinas Pendidikan (Kadisdik) Kabupaten Purwakarta, H. Purwanto menerima Peserta Didik yang akan mewakili Kabupaten Purwakarta pada lomba tingkat Nasional. Aura...</p>
+                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> SENIN, 08 JUL 2024</small></p>
                                 <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
                             </div>
                         </div>
@@ -170,13 +170,13 @@
                 <div class="card">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
+                            <img src="https://disdik.purwakartakab.go.id//asset/foto_berita/apel_pagi_0807241.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
+                                <h5 class="card-title">Apel Pagi, Kadisdik: Pengawas Baru Harus Berkolaborasi Dengan Pengawas Senior</h5>
+                                <p class="card-text">Purwakarta, (08/07/2024) – Bertempat di halaman Kantor Dinas Pendidikan (Disdik) Kabupaten Purwakarta dilaksanakan kegiatan rutin Apel Senin pagi, Senin 10 Mei 2024 yang diikuti oleh para pejabat beserta staff, pengawas TK, SD dan SMP, Penilik, Kepala SD dan Pengelola SKB. Bertindak sebagai pembina Apel, Kepala Dinas Pendidikan (Kadisdik) Kabupaten Purwakarta, Dr. H. Purwanto, M.Pd...</p>
+                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> SENIN, 08 JUL 2024 </small></p>
                                 <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
                             </div>
                         </div>
@@ -184,25 +184,7 @@
                 </div>
             </div>
         </div>
-        <div class="row mb-3">
-            <div class="col-12">
-                <div class="card">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="image2.jpg" class="card-img" alt="Selamat Hari Guru Nasional">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">SELAMAT HARI GURU NASIONAL</h5>
-                                <p class="card-text">Selamat Hari Guru, Sobat Pintar! Bertepatan pada tanggal 25 November 2022, hari guru diperingati untuk selalu mengingat jasa-jasa para guru kepada masyarakat. Untuk itu yuk, sama-sama kita ucapkan terima kasih untuk para guru kita yang telah membimbing kita. Terima kasih Ibu dan Bapak Guru ✨ #jakdisdiktv #pusdatikomdik #dinaspendidikandki #hariguru</p>
-                                <p class="card-text"><small class="text-muted"><i class="far fa-calendar-alt"></i> 25 November 2022</small></p>
-                                <a href="#" class="btn btn-success">Berita Dinas Pendidikan</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <nav aria-label="Page navigation example">
             <ul class="pagination justify-content-center">
                 <li class="page-item disabled">

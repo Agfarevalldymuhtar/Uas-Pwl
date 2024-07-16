@@ -115,23 +115,25 @@
                   <div class="side-news custom-side-news">
                       <div class="side-news-item custom-side-news-item">
                           <span class="badge custom-badge">Informasi</span>
-                          <h3>SURAT EDARAN NOMOR 13/SE/2024 TENTANG PERPINDAHAN (MUTASI) PESERTA DIDIK SEMESTER GANJIL TAHUN PELAJARAN 2024/2025</h3>
-                          <p class="fa-calendar">02 Juli 2024</p>
+                          <h3>Hari Pertama MPLS SD Purwakarta Tahun 2024, Terapkan Konsep Mindfullness Bagi Peserta Didik Baru
+                        </h3>
+                          <p class="fa-calendar">SENIN, 15 JUL 2024</p>
                       </div>
                       <div class="side-news-item custom-side-news-item">
                           <span class="badge custom-badge">Informasi</span>
-                          <h3>DISDIK DKI JAKARTA PASTIKAN DANA KJMU DIDISTRIBUSIKAN MULAI BESOK DAN DAPAT DIMANFAATKAN PENERIMA BANTUAN</h3>
-                          <p>27 Juni 2024</p>
+                          <h3>Paduan Suara Disdik Masuk Babak Final Lomba Hari Jadi Purwakarta</h3>
+                          <p>SELASA, 16 JUL 2024 </p>
                       </div>
                       <div class="side-news-item custom-side-news-item">
-                          <span class="badge custom-badge">Berita Bidang, Sudin dan UPT</span>
-                          <h3>SUKSES PELAKSANAAN WEBINAR PENDIDIKAN JAKARTA MENUJU KOTA GLOBAL</h3>
-                          <p>21 Juni 2024</p>
+                          <span class="badge custom-badge">Informasi</span>
+                          <h3>Tips Belajar Sungguh-Sungguh Ala Aura, Bintang Sobat SMP Asal Maniis Purwakarta
+                        </h3>
+                          <p>RABU, 10 JUL 2024</p>
                       </div>
                       <div class="side-news-item custom-side-news-item">
-                          <span class="badge custom-badge">Berita Bidang, Sudin dan UPT</span>
-                          <h3>WEBINAR PENDIDIKAN JAKARTA MENUJU KOTA GLOBAL</h3>
-                          <p>19 Juni 2024</p>
+                          <span class="badge custom-badge">Informasi</span>
+                          <h3>Pelajar Purwakarta Tuntas Kelola Sampah Masuk Muatan Kurikulum</h3>
+                          <p>SELASA, 21 FEB 2023 </p>
                       </div>
                   </div>
               </div>
@@ -762,7 +764,7 @@
 
           </div>
         </section>
-        
+
         <!-- End Contact Section -->
 
       </main
