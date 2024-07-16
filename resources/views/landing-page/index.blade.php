@@ -109,7 +109,7 @@
                           <p>Purwakarta, (06/07/2024) – Kabupaten Purwakarta kembali menelurkan pemain sepakbola handal yang tahun ini terpilih sebagai bagian dari Squad Timnas U-16. Adalah Dafa Al Gasemi Setiawarman yang menjadi Kiper Timnas U-16 pada event sepakbola ASEAN Cup 2024 U-16.
 
                               Jurnalis Disdik Purwakarta berhasil mewawancari Dafa secara online dan mendapatkan banyak cerita luar biasa dari pemain yang saat ini bersekolah di SMA Lazuardi Purwakarta.</p>
-                          <a href="#">read more...</a>
+                          <a href="/tampilanberita">read more...</a>
                       </div>
                   </div>
                   <div class="side-news custom-side-news">

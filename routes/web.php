@@ -46,3 +46,4 @@ require __DIR__.'/auth.php';
 // Route::get('/galeri', function () {
 //     return view('landing-page.galeri');
 // });
+

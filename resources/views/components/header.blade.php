@@ -1,37 +1,53 @@
-<header id="header" class="fixed-top">
+<header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
-      <div class="logo me-auto">
-        <a href="index.html"><img src="https://disdik.purwakartakab.go.id/asset/logo/Logo_Disdik_Fix2.png" alt="Logo"><span style="font-weight: bold; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Dinas Pendidikan</span></a>
-      </div>
+
+        <h1 class="logo me-auto">
+            <a href="index.html">
+              <img src="{{ asset('storage/landing-page') }}/assets/img/disdikpwk.png" alt="Logo">
+              <span class="header-text">
+                DINAS PENDIDIKAN<br>
+                KABUPATEN PURWAKARTA
+              </span>
+            </a>
+          </h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="/">BERANDA</a></li>
-          <li class="dropdown">
-            <a href="#"><span>PROFIL</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="/visimisi">Visi & Misi</a></li>
-              <li><a href="/organisasi">Struktur Organisasi</a></li>
-            </ul>
-          </li>
-          <li class="dropdown">
-            <a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="/ppdb">Info PPDB</a></li>
-            </ul>
-          </li>
-          <li class="dropdown">
-            <a href="#"><span>BERITA</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="/berita">Berita Dinas Pendidikan</a></li>
-            </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="/galeri">GALERI</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav>
-      <!-- .navbar -->
-    </div>
-  </header>
+          <li><a class="nav-link scrollto" href="/">BERANDA</a></li>
 
-<!-- end HEADER -->
+          <li class="dropdown"><a href="#"><span>PROFIL</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+                <li><a href="/visimisi">Visi & Misi</a></li>
+                <li><a href="/organisasi">Struktur Organisasi</a></li>
+              </ul>
+            </li>
+
+          <li><a class="nav-link scrollto" href="/ppdb">PPDB</a></li>
+
+          <li class="dropdown"><a href="#"><span>BERITA</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+                <li><a href="/berita">Berita Pendidikan</a></li>
+              </ul>
+            </li>
+
+          <li><a class="nav-link scrollto" href="/galeri">GALERI</a></li>
+
+          <li><a class="nav-link scrollto" href="#contact">CONTACT</a></li>
+
+          <li class="dropdown"><a href="#"><span>LOGIN</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+                <li><a href="#">Login Admin</a></li>
+              </ul>
+            </li>
+
+        </ul>
+
+        <i class="bi bi-list mobile-nav-toggle"></i>
+
+      </nav><!-- .navbar -->
+
+    </div>
+
+  </header>
