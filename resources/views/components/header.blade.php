@@ -36,9 +36,9 @@
 
           <li><a class="nav-link scrollto" href="#contact">CONTACT</a></li>
 
-          <li class="dropdown"><a href="#"><span>LOGIN</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown costum-dropdown"><a href="#"><span>LOGIN</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-                <li><a href="#">Login Admin</a></li>
+                <li><a href="/dashboard">Login Admin</a></li>
               </ul>
             </li>
 
