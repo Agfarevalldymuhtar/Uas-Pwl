@@ -4,6 +4,7 @@
 /public/hot
 /public/storage
 /storage/*.key
+!/storage/App/Public/landing-page/assets
 /vendor
 .env
 .env.backup
